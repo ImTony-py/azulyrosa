@@ -1,0 +1,8 @@
+Sitio del Jardín de Niños Azul y Rosa: primer borrador
+
+Sitio estático mobile first con 5 secciones (Inicio, Servicios, Costos,
+Calendario, Visítanos) y aviso de privacidad. Datos editables en
+js/config.js, calendario SEP/SEG 2026-2027.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_011tzX6WLyqGDvAfAiU7Z4Fo
