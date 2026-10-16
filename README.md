@@ -1,6 +1,6 @@
 # Jardín de Niños Azul y Rosa · Sitio web
 
-Sitio informativo para el Jardín de Niños Azul y Rosa (Irapuato, Gto.). Objetivo: que mamás y papás resuelvan sus dudas desde el celular y llamen o escriban por WhatsApp para agendar una visita.
+Sitio informativo para el Jardín de Niños Azul y Rosa (Irapuato, Gto.) Objetivo: Landing page informativa para que mamás y papás resuelvan sus dudas desde el celular y llamen o escriban por WhatsApp para agendar una visita.
 
 **Estado:** borrador funcional. Los datos marcados en amarillo ("Por confirmar") siguen pendientes con la dirección del kínder.
 
@@ -9,8 +9,8 @@ Sitio informativo para el Jardín de Niños Azul y Rosa (Irapuato, Gto.). Objeti
 - Usuarias principales: mamás en teléfonos Android (también iPhone), con poca experiencia técnica.
 - Mobile first, una sola página con 5 secciones y barra de navegación fija abajo (patrón tipo WhatsApp / Facebook).
 - Texto de 18px, botones de mínimo 48px de alto, lenguaje sencillo en español de México.
-- Botón de llamar siempre visible; cada sección termina con llamada o WhatsApp.
-- Colores tomados del logo (azul y rosa). Soporta modo oscuro del sistema.
+- Botón de llamar siempre visible; cada sección termina con el call to action.
+- Colores tomados del logo (azul y rosa). Nota personal: Comprobar si soporta modo oscuro del sistema.
 
 ## Estructura
 
